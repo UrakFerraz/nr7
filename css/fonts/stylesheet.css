@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-ExtraBlack.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-ExtraBlack.woff') format('woff'),
+        url('subset-PFDinTextUniversal-ExtraBlack.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-ExtraBlack.svg#PFDinTextUniversal-ExtraBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Thin.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Thin.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Thin.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Thin.svg#PFDinTextUniversal-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Hairline.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Hairline.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Hairline.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Hairline.svg#PFDinTextUniversal-Hairline') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-ExtraBlack.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-ExtraBlack.woff') format('woff'),
+        url('subset-PFDinTextUniversal-ExtraBlack.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-ExtraBlack.svg#PFDinTextUniversal-ExtraBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-ExtraThin.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-ExtraThin.woff') format('woff'),
+        url('subset-PFDinTextUniversal-ExtraThin.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-ExtraThin.svg#PFDinTextUniversal-ExtraThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Thin.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Thin.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Thin.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Thin.svg#PFDinTextUniversal-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal.woff') format('woff'),
+        url('subset-PFDinTextUniversal.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal.svg#PFDinTextUniversal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Medium.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Medium.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Medium.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Medium.svg#PFDinTextUniversal-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal.woff') format('woff'),
+        url('subset-PFDinTextUniversal.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal.svg#PFDinTextUniversal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Medium.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Medium.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Medium.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Medium.svg#PFDinTextUniversal-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-ExtraThin.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-ExtraThin.woff') format('woff'),
+        url('subset-PFDinTextUniversal-ExtraThin.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-ExtraThin.svg#PFDinTextUniversal-ExtraThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Bold.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Bold.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Bold.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Bold.svg#PFDinTextUniversal-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Light.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Light.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Light.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Light.svg#PFDinTextUniversal-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Light.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Light.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Light.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Light.svg#PFDinTextUniversal-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Hairline.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Hairline.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Hairline.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Hairline.svg#PFDinTextUniversal-Hairline') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('subset-PFDinTextUniversal-Bold.woff2') format('woff2'),
+        url('subset-PFDinTextUniversal-Bold.woff') format('woff'),
+        url('subset-PFDinTextUniversal-Bold.ttf') format('truetype'),
+        url('subset-PFDinTextUniversal-Bold.svg#PFDinTextUniversal-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
